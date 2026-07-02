@@ -10,7 +10,7 @@ int main()
   cout<<num1-num2<<endl;
   cout<<num1*num2;
 
-  if (num2!=0);
+  if (num2!=0)
 {
   cout<<num1/num2<<endl;
 }
